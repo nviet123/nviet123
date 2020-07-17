@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💬 Ask me about Xero, Tax and Accounting 
+- 💬 Ask me about SSW using Xero amd all other Tax and Accounting 
 - 🔭 I’m currently working on testing of Xero Integrations with various softwares, e.g. SSW TimePro and Microsoft PowerBI 
 - 📫 How to reach me: @nickviet
 - 👯 I’m looking to collaborate on Xero with SSW partnered softwares
