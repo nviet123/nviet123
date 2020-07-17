@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🏃 I work at SSW https://www.ssw.com.au/people/nicholas-viet
 - 💬 Ask me about SSW using Xero amd all other Tax and Accounting 
 - 🔭 I’m currently working on testing of Xero Integrations with various softwares, e.g. SSW TimePro and Microsoft PowerBI 
 - 📫 How to reach me: @nickviet
