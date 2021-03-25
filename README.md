@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: I have represented Australia in two sports
 
+[![Nick's github stats](https://github-readme-stats.vercel.app/api?username=NicholasViet&theme=dark)](https://github.com/nicholasviet/github-readme-stats)
+
 Look forward to chatting!
 
 Nick Viet
