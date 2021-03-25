@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: I have represented Australia in two sports
 
-[![Nick's github stats](https://github-readme-stats.vercel.app/api?username=NicholasViet&theme=dark)](https://github.com/nicholasviet/github-readme-stats)
+[![Nick's github stats](https://github-readme-stats.vercel.app/api?username=nviet123&theme=dark)](https://github.com/nviet123/github-readme-stats)
 
 Look forward to chatting!
 
