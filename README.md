@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 💬 Ask me about SSW using Xero amd all other Tax and Accounting 
+- 💬 Ask me about SSW using Xero and all other Tax and Accounting 
 
 - 🏃 I work at SSW https://www.ssw.com.au/people/nicholas-viet
 
